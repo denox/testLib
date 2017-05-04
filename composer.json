@@ -12,7 +12,7 @@
     "type": "project",
     "require": {
 		"php": ">=5.4",
-        "buonzz/mylibrary": "dev"
+        "buonzz/mylibrary": "*"
     },
 	"require-dev": {
 		"phpunit/phpunit": "5.2.*"
